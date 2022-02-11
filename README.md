@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathish25071992
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning NodeJS, Frontend and Backend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Kernel and OS bringup and device drivers for linux and RTOS (Zephyr and FreeRTOS)
 - 📫 How to reach me (sathish25071992@gmail.com)
 
 <!---
